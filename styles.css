@@ -8,7 +8,7 @@ html {
     background-color: #181a1b;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .banner {
@@ -53,12 +53,6 @@ th {
     background-color: #181a1b;
     padding:10px;
 }
-
-
-
-table tr:nth-child(){background-color: #f2f2f2;}
-
-
 
 a {
     color: rgb(105, 105, 202);
